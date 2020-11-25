@@ -1,0 +1,138 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ecocraft.com" resolutions="1x" timestamp="1606323862997">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="261594062" ref="ecotip:la-fuente:index:ecoartistas:comunalitos"/>
+    <file name="ecotip.css" crc="3803873075" ref="ecotip"/>
+    <file name="la-fuente.css" crc="4124122971" ref="la-fuente"/>
+    <file name="index.css" crc="3795998782" ref="index"/>
+    <file name="ecoartistas.css" crc="4152906960" ref="ecoartistas"/>
+    <file name="comunalitos.css" crc="3869076701" ref="comunalitos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:comunalitos:la-fuente:ecotip:ecoartistas"/>
+    <file name="museutils.js" crc="3939489907" ref="index:comunalitos:la-fuente:ecotip:ecoartistas"/>
+    <file name="whatinput.js" crc="86476730" ref="index:comunalitos:la-fuente:ecotip:ecoartistas"/>
+    <file name="museconfig.js" crc="128606099" ref="index:comunalitos:la-fuente:ecotip:ecoartistas"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:comunalitos:la-fuente:ecotip:ecoartistas"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:comunalitos:la-fuente:ecotip:ecoartistas"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:comunalitos:la-fuente:ecotip:ecoartistas"/>
+    <file name="require.js" crc="4177726516" ref="index:comunalitos:la-fuente:ecotip:ecoartistas"/>
+  </folder>
+  <folder name="images">
+    <file name="home pagina-crop-u499.jpg" crc="136417675" seo="true" ref="index:comunalitos:la-fuente:ecotip:ecoartistas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="comunalitos" alt=""/>
+      <caption webpage="ecoartistas" alt=""/>
+      <caption webpage="la-fuente" alt=""/>
+      <caption webpage="ecotip" alt=""/>
+    </file>
+    <file name="fondo este si xi-crop-u3109.png" crc="79116132" seo="true" ref="index:comunalitos:la-fuente:ecotip:ecoartistas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="comunalitos" alt=""/>
+      <caption webpage="ecoartistas" alt=""/>
+      <caption webpage="la-fuente" alt=""/>
+      <caption webpage="ecotip" alt=""/>
+    </file>
+    <file name="fb.png" crc="448072476" seo="true" ref="index:comunalitos:la-fuente:ecotip:ecoartistas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="comunalitos" alt=""/>
+      <caption webpage="ecoartistas" alt=""/>
+      <caption webpage="la-fuente" alt=""/>
+      <caption webpage="ecotip" alt=""/>
+    </file>
+    <file name="ig.png" crc="507594027" seo="true" ref="index:comunalitos:la-fuente:ecotip:ecoartistas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="comunalitos" alt=""/>
+      <caption webpage="ecoartistas" alt=""/>
+      <caption webpage="la-fuente" alt=""/>
+      <caption webpage="ecotip" alt=""/>
+    </file>
+    <file name="wsp.png" crc="230108415" seo="true" ref="index:comunalitos:la-fuente:ecotip:ecoartistas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="comunalitos" alt=""/>
+      <caption webpage="ecoartistas" alt=""/>
+      <caption webpage="la-fuente" alt=""/>
+      <caption webpage="ecotip" alt=""/>
+    </file>
+    <file name="ytbe.png" crc="171501928" seo="true" ref="index:comunalitos:la-fuente:ecotip:ecoartistas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="comunalitos" alt=""/>
+      <caption webpage="ecoartistas" alt=""/>
+      <caption webpage="la-fuente" alt=""/>
+      <caption webpage="ecotip" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="arbol manualidad.jpg" crc="4119645857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="niños taller-crop-u2397.jpg" crc="131391185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="talleres-crop-u3148.jpg" crc="523110042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arbol manualidad-crop-u3176.jpg" crc="4217664192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="click aqui.png" crc="4213717739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 593x419-crop-u2872.jpg" crc="4203991448" seo="true" ref="comunalitos">
+      <caption webpage="comunalitos" alt=""/>
+    </file>
+    <file name="comunalitos new.png" crc="3923164091" seo="true" ref="comunalitos">
+      <caption webpage="comunalitos" alt=""/>
+    </file>
+    <file name="la fuente de la educación ambiental.png" crc="3867352182" seo="true" ref="la-fuente">
+      <caption webpage="la-fuente" alt=""/>
+    </file>
+    <file name="recurso 4.png" crc="4156113985" seo="true" ref="la-fuente">
+      <caption webpage="la-fuente" alt=""/>
+    </file>
+    <file name="recurso 5.png" crc="4040544738" seo="true" ref="la-fuente">
+      <caption webpage="la-fuente" alt=""/>
+    </file>
+    <file name="svg-pegado-2394072x1879.svg" crc="3944206195" seo="true" ref="la-fuente">
+      <caption webpage="la-fuente" alt=""/>
+    </file>
+    <file name="svg pegado 2394072x1879_poster_.png" crc="476289331" ref="la-fuente"/>
+    <file name="svg-pegado-262096x266.svg" crc="4048773859" seo="true" ref="la-fuente">
+      <caption webpage="la-fuente" alt=""/>
+    </file>
+    <file name="svg pegado 262096x266_poster_.png" crc="4221819924" ref="la-fuente"/>
+    <file name="ecotips.png" crc="137240506" seo="true" ref="ecotip">
+      <caption webpage="ecotip" alt=""/>
+    </file>
+    <file name="banner recetas.png" crc="156091894" seo="true" ref="ecotip">
+      <caption webpage="ecotip" alt=""/>
+    </file>
+    <file name="banner calendario.png" crc="3909899098" seo="true" ref="ecotip">
+      <caption webpage="ecotip" alt=""/>
+    </file>
+    <file name="ecotube.png" crc="393666333" seo="true" ref="ecoartistas">
+      <caption webpage="ecoartistas" alt=""/>
+    </file>
+    <file name="recurso 3.png" crc="325006502" seo="true" ref="ecoartistas">
+      <caption webpage="ecoartistas" alt=""/>
+    </file>
+    <file name="recurso 2.png" crc="3838736972" seo="true" ref="ecoartistas">
+      <caption webpage="ecoartistas" alt=""/>
+    </file>
+    <file name="niños taller-crop-u2391.jpg" crc="349099910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="talleres-crop-u3142.jpg" crc="294322843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4191197308" seo="true" mt="1606323654600" redirect="true"/>
+  <file name="comunalitos.html" crc="3982197516" seo="true" mt="1606257657998" redirect="true"/>
+  <file name="la-fuente.html" crc="3877846203" seo="true" mt="1606266471044" redirect="true"/>
+  <file name="ecotip.html" crc="4277760118" seo="true" mt="1606323826143" redirect="true"/>
+  <file name="ecoartistas.html" crc="4157605745" seo="true" mt="1606257657998" redirect="true"/>
+</manifest>
